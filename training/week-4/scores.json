@@ -1,0 +1,689 @@
+[
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem O Hack.cpp",
+        "results": {
+            "207446201": "66.66666666666666666666666667",
+            "207350423": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem A Hack.cpp",
+        "results": {
+            "206798613": "66.66666666666666666666666667",
+            "207417210": "66.66666666666666666666666667",
+            "206813415": "50.000",
+            "206893540": "50.000",
+            "206896158": "66.66666666666666666666666667",
+            "206833216": "66.66666666666666666666666667",
+            "207130711": "50.000",
+            "207139683": "66.66666666666666666666666667",
+            "207036040": "66.66666666666666666666666667",
+            "206820629": "66.66666666666666666666666667",
+            "207044853": "66.66666666666666666666666667",
+            "207035024": "50.000",
+            "207046689": "50.000",
+            "207048845": "66.66666666666666666666666667",
+            "207050369": "66.66666666666666666666666667",
+            "206916076": "66.66666666666666666666666667",
+            "206911324": "50.000",
+            "206912042": "66.66666666666666666666666667",
+            "206805267": "66.66666666666666666666666667",
+            "206834395": "66.66666666666666666666666667",
+            "207361453": "66.66666666666666666666666667",
+            "207323359": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem B Hack 1.cpp",
+        "results": {
+            "206802053": "66.66666666666666666666666667",
+            "206802315": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem M Hack.cpp",
+        "results": {
+            "207064799": "43.33333333333333333333333333",
+            "207425307": "43.33333333333333333333333333",
+            "207425297": "43.33333333333333333333333333",
+            "207412118": "43.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem N Hack.cpp",
+        "results": {
+            "207341134": "50.000"
+        }
+    },
+    {
+        "hacker_name": "jer033",
+        "hack_gen": "hacks/W4/jer033/Hack Week 4/Problem B Hack 2.cpp",
+        "results": {
+            "206862464": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/theater/submissions/207412746.py",
+        "results": {
+            "207412746": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/theater/submissions/207447951.py",
+        "results": {
+            "207447951": "25.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/theater/submissions/207412689.py",
+        "results": {
+            "207412689": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/theater/submissions/207412641.py",
+        "results": {
+            "207412641": "25.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/building-a-droid/submissions/207414834.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-b/submissions/207413903.py",
+        "results": {
+            "207413903": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-d/submissions/207412952.py",
+        "results": {
+            "207412952": "40.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-d/submissions/207429274.py",
+        "results": {
+            "207429274": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207428125.py",
+        "results": {
+            "207428125": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207417815.py",
+        "results": {
+            "207417815": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206809657.py",
+        "results": {
+            "206809657": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206992778.py",
+        "results": {
+            "206992778": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207413140.py",
+        "results": {
+            "207413140": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206992318.py",
+        "results": {
+            "206992318": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207110583.py",
+        "results": {
+            "207110583": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207016622.py",
+        "results": {
+            "207016622": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207048941.py",
+        "results": {
+            "207048941": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206821918.py",
+        "results": {
+            "206821918": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206994687.py",
+        "results": {
+            "206994687": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207049235.py",
+        "results": {
+            "207049235": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206907619.py",
+        "results": {
+            "206907619": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206807627.py",
+        "results": {
+            "206807627": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207153090.py",
+        "results": {
+            "207153090": "48.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/206995943.py",
+        "results": {
+            "206995943": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207414933.py",
+        "results": {
+            "207414933": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cut/submissions/207149431.py",
+        "results": {
+            "207149431": "31.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-a/submissions/207309773.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-a/submissions/207420975.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-a/submissions/207052414.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-a/submissions/207412429.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-a/submissions/206836826.py",
+        "results": {}
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206820629.py",
+        "results": {
+            "206820629": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207323359.py",
+        "results": {
+            "207323359": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207044853.py",
+        "results": {
+            "207044853": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206834395.py",
+        "results": {
+            "206834395": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207050369.py",
+        "results": {
+            "207050369": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207417210.py",
+        "results": {
+            "207417210": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207139683.py",
+        "results": {
+            "207139683": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206798613.py",
+        "results": {
+            "206798613": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207036040.py",
+        "results": {
+            "207036040": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207361453.py",
+        "results": {
+            "207361453": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206805267.py",
+        "results": {
+            "206805267": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206809560.py",
+        "results": {
+            "206809560": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206911324.py",
+        "results": {
+            "206911324": "50.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207130711.py",
+        "results": {
+            "207130711": "50.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206804950.py",
+        "results": {
+            "206804950": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206833216.py",
+        "results": {
+            "206833216": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207410803.py",
+        "results": {
+            "207410803": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206916076.py",
+        "results": {
+            "206916076": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/207046689.py",
+        "results": {
+            "207046689": "50.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-a/submissions/206912042.py",
+        "results": {
+            "206912042": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207348067.py",
+        "results": {
+            "207348067": "50.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207325608.py",
+        "results": {
+            "207325608": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206802053.py",
+        "results": {
+            "206802053": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206897617.py",
+        "results": {
+            "206897617": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206835591.py",
+        "results": {
+            "206835591": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206845786.py",
+        "results": {
+            "206845786": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207417522.py",
+        "results": {
+            "207417522": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206831830.py",
+        "results": {
+            "206831830": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207145017.py",
+        "results": {
+            "207145017": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207036149.py",
+        "results": {
+            "207036149": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206802315.py",
+        "results": {
+            "206802315": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206862464.py",
+        "results": {
+            "206862464": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207348763.py",
+        "results": {
+            "207348763": "50.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206896457.py",
+        "results": {
+            "206896457": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207109281.py",
+        "results": {
+            "207109281": "33.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207018216.py",
+        "results": {
+            "207018216": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/207144514.py",
+        "results": {
+            "207144514": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206812846.py",
+        "results": {
+            "206812846": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/flip-b/submissions/206896229.py",
+        "results": {
+            "206896229": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207329463.py",
+        "results": {
+            "207329463": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207329044.py",
+        "results": {
+            "207329044": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207418598.py",
+        "results": {
+            "207418598": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207445389.py",
+        "results": {
+            "207445389": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207329384.py",
+        "results": {
+            "207329384": "36.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207116979.py",
+        "results": {
+            "207116979": "20.000"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/cards-a/submissions/207291131.py",
+        "results": {
+            "207291131": "-50"
+        }
+    },
+    {
+        "hacker_name": "lunar_bloom",
+        "hack_gen": "hacks/W4/lunar_bloom/droids-c/submissions/207410277.py",
+        "results": {
+            "207410277": "50.000"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/c.py",
+        "results": {
+            "207110583": "22.000",
+            "207016622": "22.000",
+            "207428125": "5.333333333333333333333333333",
+            "206995943": "22.000",
+            "206821918": "38.66666666666666666666666667",
+            "207153090": "38.66666666666666666666666667",
+            "207306722": "38.66666666666666666666666667",
+            "206816100": "38.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/l.py",
+        "results": {
+            "207447951": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/b2.py",
+        "results": {
+            "207417522": "66.66666666666666666666666667",
+            "207145017": "66.66666666666666666666666667",
+            "207036149": "66.66666666666666666666666667",
+            "206845786": "66.66666666666666666666666667",
+            "206831830": "66.66666666666666666666666667",
+            "207109281": "33.33333333333333333333333333",
+            "206835591": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/b1.py",
+        "results": {
+            "207018216": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/n1.py",
+        "results": {
+            "207341134": "50.000",
+            "207003780": "66.66666666666666666666666667",
+            "207002755": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/n2.py",
+        "results": {
+            "207445862": "66.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "jlallas384",
+        "hack_gen": "hacks/W4/jlallas384/m.py",
+        "results": {
+            "207064799": "43.33333333333333333333333333",
+            "207425307": "43.33333333333333333333333333",
+            "207411522": "43.33333333333333333333333333",
+            "207425297": "43.33333333333333333333333333"
+        }
+    },
+    {
+        "hacker_name": "Dexva",
+        "hack_gen": "hacks/W4/Dexva/AB_hack-1.py",
+        "results": {
+            "206834395": "66.66666666666666666666666667",
+            "206833216": "66.66666666666666666666666667",
+            "206916076": "66.66666666666666666666666667",
+            "207323359": "66.66666666666666666666666667",
+            "206835591": "16.66666666666666666666666667"
+        }
+    },
+    {
+        "hacker_name": "Dexva",
+        "hack_gen": "hacks/W4/Dexva/C_hack-1.py",
+        "results": {
+            "207413140": "-50"
+        }
+    }
+]
